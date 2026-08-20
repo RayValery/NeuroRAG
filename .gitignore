@@ -4,3 +4,9 @@
 
 # JetBrains IDE
 .idea/
+
+.env
+.venv/
+
+__pycache__/
+*.pyc
